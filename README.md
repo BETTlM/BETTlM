@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently pursuing my undergrad<br>Interested in IoT and Electronics
+I'm currently pursuing my undergrad<br>Interested in Coding and gaming.
 
 
 ## 🌐 Socials:
