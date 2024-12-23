@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying B.Tech CSE in Amrita, Coimbatore<br>I'm currently learning Java, Python, C++, JavaScript and Web Development!<br>Interested in Technology, Mathematics and Programming.
+I'm currently studying B.Tech CSE in Amrita, Coimbatore<br>I'm currently learning Java, Python, C, JavaScript and Web Development!<br>Interested in Technology, Mathematics and Programming.
 
 
 ## 🌐 Socials:
