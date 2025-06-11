@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👋 Hi there, I'm Sanjith S J!<br><br>I'm a Computer Science student at Amrita Vishwa Vidyapeetham, Coimbatore<br><br>- 🔭 Currently working on: DSA, system design, and real-world web apps<br>- 🧠 Solving Leetcode problems on [LeetCode](https://leetcode.com/BETTlM/)<br>- 💻 Tech Stack: Java, Python, C, HTML/CSS/JS, MySQL, Git, Shell scripting<br>---<br>📫 Reach me: `sanjith120806@gmail.com`
+ 👋 Hi there, I'm Sanjith S J!<br><br>I'm a Computer Science student at Amrita Vishwa Vidyapeetham, Coimbatore<br><br> 🔭 Currently working on: DSA, system design, and real-world web apps<br> 🧠 Solving Leetcode problems on [LeetCode](https://leetcode.com/BETTlM/)<br> 💻 Tech Stack: Java, Python, C, HTML/CSS/JS, MySQL, Git, Shell scripting<br><br>📫 Reach me: `sanjith120806@gmail.com`
 
 
 ## 🌐 Socials:
