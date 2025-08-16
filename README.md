@@ -1,6 +1,4 @@
 <h1 align="center">Hey, I'm Bettim</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BETTlM&label=Profile%20views&color=0e75b6&style=flat" alt="BETTlM" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BETTlM&theme=onedark" alt="BETTlM" /></a> </p>
 
 - 💬 DO NOT ask me to **fix windows errors**
@@ -41,20 +39,12 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BETTlM&langs_count=8&theme=transparent" alt=BETTlM />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=BETTlM&show_icons=true&locale=en&theme=transparent" alt="BETTlM" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BETTlM&theme=transparent" alt="BETTlM" /></p>
+<p>&nbsp;<img align="center" height="180em" width="1000em" src="https://github-readme-stats.vercel.app/api?username=BETTlM&show_icons=true&locale=en&theme=transparent" alt="BETTlM"     /></p>
+<p><img align="center" height="180em" width="1000em" src="https://github-readme-streak-stats.herokuapp.com/?user=BETTlM&theme=transparent" alt="BETTlM" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/BETTlM">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BETTlM&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BETTlM&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BETTlM&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BETTlM&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BETTlM&theme=transparent" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
