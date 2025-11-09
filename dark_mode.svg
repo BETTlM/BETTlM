@@ -30,8 +30,8 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="230">  |█████████████ [BLACK-BIRD] █████████████|</tspan>
 <tspan x="15" y="250">  |___\_____/____________________\_____/___|</tspan>
 <tspan x="15" y="270">  |    \███/   |    J58-P4    |   \███/    |</tspan> 
-<tspan x="15" y="290">   \_   \█/    |     TURBO    |    \█/   __/ </tspan>
-<tspan x="15" y="310">     \__       |\_  RAMJET  _/|       __/    </tspan>
+<tspan x="15" y="290">   \_   \█/    |              |    \█/   __/ </tspan>
+<tspan x="15" y="310">     \__       |\_          _/|       __/    </tspan>
 <tspan x="15" y="330">        \__    | \\________// |    __/       </tspan>
 <tspan x="15" y="350">           \__ |  \\______//  | __/          </tspan>
 <tspan x="15" y="370">              \__  \\____//  __/             </tspan>
